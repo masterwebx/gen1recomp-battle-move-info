@@ -36,7 +36,7 @@ On the stats screen moves page during battle, each move also shows a marker vs t
 
 ## Install
 
-1. Download `BATTLE_MOVE_INFO-1.0.5.zip` from [Releases](https://github.com/masterwebx/gen1recomp-battle-move-info/releases).
+1. Download `MOVE_MATCHUP-1.0.6.zip` from [Releases](https://github.com/masterwebx/gen1recomp-battle-move-info/releases).
 2. In gen1recomp, open **MODS** and **Import mod.zip**.
 3. Enable **Battle Move Info** (allow `engine_internals` if prompted).
 

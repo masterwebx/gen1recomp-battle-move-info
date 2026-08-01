@@ -4,7 +4,7 @@
 
 local mod = ...
 
-local MOD_ID = "BATTLE_MOVE_INFO"
+local MOD_ID = "MOVE_MATCHUP"
 local PAGE_COUNT = 3
 
 local GLYPH_X = 0xF1

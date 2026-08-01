@@ -1,7 +1,7 @@
 {
-  "id": "BATTLE_MOVE_INFO",
+  "id": "MOVE_MATCHUP",
   "name": "Battle Move Info",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
