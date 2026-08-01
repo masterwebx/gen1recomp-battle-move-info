@@ -1,0 +1,20 @@
+{
+  "id": "BATTLE_MOVE_INFO",
+  "name": "Battle Move Info",
+  "version": "1.0.5",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.1.37 <2.0.0",
+  "priority": 48,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "affects_link": false,
+  "github": "masterwebx/gen1recomp-battle-move-info",
+  "description": "Type matchup markers on move select. Left/Right for effectiveness and power. Markers on the stats move list in battle."
+}
