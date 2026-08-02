@@ -1,0 +1,16 @@
+{
+  "id": "MOVE_MATCHUP",
+  "name": "Battle Move Info",
+  "version": "1.0.7",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.1.37 <2.0.0",
+  "priority": 48,
+  "author": "masterwebx",
+  "dependencies": [],
+  "permissions": ["engine_internals"],
+  "affects_link": false,
+  "description": "Type matchup markers on move select. Left/Right for power."
+}
